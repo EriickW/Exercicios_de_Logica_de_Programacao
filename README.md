@@ -1,11 +1,12 @@
-# Exercícios de Lógica de programação :desktop_computer:
+<h1 align="center"> Exercícios de Lógica de programação </h1> 
+
 
 <div align="center">Esse repositório é voltado para o desenvolvedor iniciante que busca testar seus conhecimentos, esse repositório conta com muitos exercícios 
    </div>
 <br>
 <div align="center">
     
-[<img src="https://img.shields.io/badge/-Algoritimo-blue" />](#algoritmos)
+[<img src="https://img.shields.io/badge/-Java Script-yellow" />](#algoritmos)
 [<img src="https://img.shields.io/badge/-Variáveis-blue" />](#1---variáveis-e-funções) 
 [<img src="https://img.shields.io/badge/-Algoritimo-blue" />](#algoritmos) 
 [<img src="https://img.shields.io/badge/-Algoritimo-blue" />](#algoritmos)  
@@ -15,9 +16,9 @@
 
 ## Navegação  
 
-- [Algoritmos Simples](#algoritimos)
+- [Algoritmos Simples](#algoritmos)
 - [1-Variáveis](##1 - Variáveis e Funções)
-- [2-Condicionais](##2-Condicionais)
+- [2-Condicionais](#2-Condicionais)
 - [3-Loop](##3 - Loop)
 - [4-Vetores (Array)](##4 - Vetores )
 - [Respostas](##Respostas)
