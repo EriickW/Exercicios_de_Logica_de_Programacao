@@ -50,7 +50,7 @@
 
 **D)**  Desenvolva um algoritmo que leia dois números inteiros e mostre a soma  entre eles.
 
-**E)** Faça um programa que leia um número inteiro e mostre o seu antecessor e seu  sucessor.
+**E)** Faça um programa que leia um número inteiro e mostre o seu antecessor e seu  sucessor
 <br>
 <hr>
 
