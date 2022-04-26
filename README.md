@@ -4,7 +4,7 @@
 <div align="center">Esse repositório é voltado para o desenvolvedor iniciante que busca testar seus conhecimentos, esse repositório conta com muitos exercícios 
    </div>
 <br>
-<div align="center">
+<!-- <div align="center">
     
 [<img src="https://img.shields.io/badge/-Java Script-yellow" />](#algoritmos)
 [<img src="https://img.shields.io/badge/-Variáveis-blue" />](#1---variáveis-e-funções) 
@@ -12,16 +12,18 @@
 [<img src="https://img.shields.io/badge/-Algoritimo-blue" />](#algoritmos)  
 </div>
 
-</div>
+</div> -->
+
 
 ## Navegação  
 
 - [Algoritmos Simples](#algoritmos)
-- [1-Variáveis](##1 - Variáveis e Funções)
+- [1-Variáveis](#1-Variáveis)
 - [2-Condicionais](#2-Condicionais)
-- [3-Loop](##3 - Loop)
-- [4-Vetores (Array)](##4 - Vetores )
-- [Respostas](##Respostas)
+- [3-Loop](#3-Loop)
+- [4-Vetores (Array)](#4-Vetores)
+- [Respostas](#Respostas)
+<br>
 
 ## Links 
 
@@ -29,9 +31,9 @@
 - [O que é JavaScript?](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
 
-
+<br>
 <hr>
-
+<br>
 
 ## Algoritmos
 
@@ -49,10 +51,10 @@
 **D)**  Desenvolva um algoritmo que leia dois números inteiros e mostre a soma  entre eles.
 
 **E)** Faça um programa que leia um número inteiro e mostre o seu antecessor e seu  sucessor.
-
+<br>
 <hr>
 
-## 1 - Variáveis e Funções
+## 1-Variáveis
 
 - **Exercício 1.1**
   
@@ -66,10 +68,11 @@
   - Faça um programa que **leia** do usuário uma temperatura em Fahrenheit, **converta-a** para graus Celsius e **escreva** o novo valor na tela. A fórmula de conversão de Fahrenheit (F) para Celsius é C = ( ( F - 32 ) * 5 ) / 9. Exemplo: 100 Fahrenheit = 37,77 Celsius.
   
     
-
+<br>
 <hr>
 
 
+<br>
 
 ## 2-Condicionais
 
@@ -85,26 +88,27 @@
   - Faça um programa que peça um valor e mostre na tela se o valor é positivo ou negativo
 
 
-
+<br>
 <hr>
 
-## 3 - Loop
+
+## 3-Loop
 
 - **Exercício 3.1**
   - Escreva um programa que calcule e mostre a tabuada (até 10x) de um número qualquer, digitado pelo usuário.
 
 
-
+<br>
 <hr>
 
-## 4 - Vetores
+## 4-Vetores
 
 - **Exercício 4.1**
   
   - Faça um programa que leia um vetor numérico de 10 posições. Depois, ordene o vetor em ordem crescente e apresente os elementos ordenados.
   
     
-
+<br>
 <hr>
 
 ## Respostas 
@@ -112,7 +116,7 @@
 - Nas pastas estão as resoluções dos exercícios na linguagem **JavaScript** se quiser ajudar a melhorar esse repositório colocando novas linguagens fique a vontade estou aceitando as respostas :smile:
 
 
-
+<br>
 <hr>
 
 ## Outras ferramentas para iniciar na programação
