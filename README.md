@@ -4,15 +4,7 @@
 <div align="center">Esse repositório é voltado para o desenvolvedor iniciante que busca testar seus conhecimentos, esse repositório conta com muitos exercícios 
    </div>
 <br>
-<!-- <div align="center">
-    
-[<img src="https://img.shields.io/badge/-Java Script-yellow" />](#algoritmos)
-[<img src="https://img.shields.io/badge/-Variáveis-blue" />](#1---variáveis-e-funções) 
-[<img src="https://img.shields.io/badge/-Algoritimo-blue" />](#algoritmos) 
-[<img src="https://img.shields.io/badge/-Algoritimo-blue" />](#algoritmos)  
-</div>
 
-</div> -->
 
 
 ## Navegação  
@@ -51,6 +43,12 @@
 **D)**  Desenvolva um algoritmo que leia dois números inteiros e mostre a soma  entre eles.
 
 **E)** Faça um programa que leia um número inteiro e mostre o seu antecessor e seu  sucessor
+
+**F)**  Faça um programa que leia as duas notas de um aluno em uma matéria e mostre
+na tela a sua média na disciplina.
+
+**G)** Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a
+sua terça parte.
 <br>
 <hr>
 
